@@ -1,0 +1,7 @@
+cd\ for the lowest directory.
+cd.. for one directory back.
+cd. for be in the same directory.
+dir for view al dirs and file in a directory.
+view [filename] for view a file.
+quit for close the connection.
+help for view this help
